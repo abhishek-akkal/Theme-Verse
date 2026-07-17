@@ -17,7 +17,6 @@ ThemeVerse is a modern React + Tailwind CSS project that allows users to switch 
 - 💧 Blue Theme
 - ✨ Purple Theme
 - ⚡ Real-time theme switching
-- 📱 Responsive design
 - 🎯 Clean and modern UI
 - 🔄 Component-based architecture
 - 🚀 Built with React and Tailwind CSS
